@@ -76,6 +76,9 @@ use 'voldikss/vim-floaterm'
 -- vim-fugitive
 use('tpope/vim-fugitive')
 
+-- packer.nvim
+use 'lervag/vimtex'
+
 -- LSP Zero
 -- use('VonHeikemen/lsp-zero.nvim')
 
